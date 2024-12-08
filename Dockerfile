@@ -1,4 +1,4 @@
-// todo app
+
 # Use a lightweight Node.js base image
 FROM node:18-alpine
 
